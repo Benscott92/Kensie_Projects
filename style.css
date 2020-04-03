@@ -2,4 +2,16 @@ h1{
     border: 1px solid black;
     color: seagreen;
     text-decoration: underline;
+    border-width: 25%;
+}
+
+h3{
+    color: slategray;
+    border: 1px solid black;
+    border-width: 25%;
+}
+
+p{
+    border: 1px solid grey;
+    color: indigo;
 }
